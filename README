@@ -17,7 +17,7 @@ Once these are installed simply run heat tracer as root (dtrace requires root fo
     sudo node heat_tracer.js 
 
 
-That's it, browse to http://localhost/heat_tracer.html and enjoy looking at your syscall latency.
+That's it, browse to http://localhost:8000/heat_tracer.html and enjoy looking at your syscall latency.
 
 
 This code is released under the MIT license. See LICENSE file for details..
